@@ -62,11 +62,6 @@ export function singleLayout(l) {
           page.event.plusOne.type,
           page.event.plusOne.handle
         );
-
-        // user interface
-        active.el.addEventListener('selectstart', (e) => {
-          e.preventDefault();
-        });
       }
 
       proot.appendChild(active.el);
