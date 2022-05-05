@@ -1,4 +1,4 @@
-# TDM (taffy's data management) Naive Demo
+# TDM (taffy's D&S management) Naive Demo
 Everything is just naive.
 
 ```
